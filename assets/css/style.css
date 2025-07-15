@@ -98,6 +98,16 @@ h2 {
   background-color: transparent;
 }
 
+/*Events*/
+
+#student-discount {
+  font-weight: bold;
+  color: white;
+  background-color: var(--highlight-color);
+  
+  
+}
+
 #services .card {
   margin-bottom: 1.5rem;
 }
