@@ -100,12 +100,15 @@ h2 {
 
 /*Events*/
 
-#student-discount {
-  font-weight: bold;
-  color: white;
-  background-color: var(--highlight-color);
-  
-  
+.student-discount {
+    background-color: var(--highlight-color);
+    font-weight: bold;
+    color: white;
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    padding: 5px 10px;
+    font-size: 0.8rem;
 }
 
 #services .card {
